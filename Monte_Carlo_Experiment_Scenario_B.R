@@ -1,6 +1,6 @@
 #Scenario B
 
-#On this scenario, the probabilities
+#In this scenario, the probabilities
 #are going to depend on n, so the program
 #will simulate from 3 to nmax.
 nmax = 30
